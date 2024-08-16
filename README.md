@@ -22,8 +22,7 @@ Prioritize Issues: Aggregate and analyze the negative sentiment to prioritize co
 Automate Responses: For common inquiries or complaints, develop automated responses or chatbots that address these issues quickly and efficiently.
 
 - Enhance Customer Experience:
-Personalized Interventions: Use sentiment data to identify customers who are particularly unhappy and offer personalized interventions, such as discounts, personalized support, or follow-up calls.
-
-Monitor Trends: Continuously monitor sentiment trends over time to detect shifts in customer satisfaction and proactively address emerging issues.
+-- Personalized Interventions: Use sentiment data to identify customers who are particularly unhappy and offer personalized interventions, such as discounts, personalized support, or follow-up calls.
+-- Monitor Trends: Continuously monitor sentiment trends over time to detect shifts in customer satisfaction and proactively address emerging issues.
 
 Improve Training: Use insights from sentiment analysis to improve training programs for customer service representatives, focusing on areas where negative feedback is most frequent.
